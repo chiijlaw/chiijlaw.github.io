@@ -1,6 +1,6 @@
-const React = require("react");
-const ReactDOM = require("react-dom");
-const NavBar = require("./components/NavBar.jsx");
+import React from "react";
+import ReactDOM from "react-dom";
+import NavBar from "./components/NavBar.jsx";
 
 const App = () => {
   return (
